@@ -1,0 +1,5 @@
+.env
+nginx/certificate.cnf
+nginx/private-key.key
+nginx/certificate-request.csr
+nginx/certificate.crt
